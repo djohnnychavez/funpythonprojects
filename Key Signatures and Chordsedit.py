@@ -1,5 +1,4 @@
-# the goal of this code is to give you the notes and chords of a given key
-# it can also generate chords from a key in different orders to create a chord progression for you
+# the goal of this code is to give all the chords of a given key
 
 
 import random
