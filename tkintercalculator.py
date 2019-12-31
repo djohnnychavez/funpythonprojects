@@ -31,7 +31,7 @@ def button_equal():
     second_number = e.get()
     e.delete(0, END)
 
-    if math == "additon":
+    if math == "addition":
         e.insert(0, f_num + int(second_number))
     
     if math == "subtraction":
